@@ -1,0 +1,16 @@
+services:
+  - name: php-app
+    type: web
+    runtime: docker
+    plan: free
+    envVars:
+      - key: DATABASE_HOST
+        value: mainline.proxy.rlwy.net
+      - key: DATABASE_PORT
+        value: 29316
+      - key: DATABASE_NAME
+        value: railway
+      - key: DATABASE_USER
+        value: root
+      - key: DATABASE_PASSWORD
+        value: kDIRAbvGfdAmWkRcjCXtfDcetUyGOLLJ
