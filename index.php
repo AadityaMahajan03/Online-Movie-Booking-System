@@ -8,6 +8,9 @@ session_start();
 <html lang="zxx">
 
 <head>
+<script src="js/owl.carousel.min.js"></script> <!-- Change path if needed -->
+
+    
     <meta charset="UTF-8">
     <meta name="description" content="Male_Fashion Template">
     <meta name="keywords" content="Male_Fashion, unica, creative, html">
