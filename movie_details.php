@@ -1,5 +1,7 @@
   <?php
 session_start();
+ob_start();
+
 
         include_once 'Database.php';
         $id = $_GET['pass'];
