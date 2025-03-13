@@ -9,6 +9,11 @@ session_start();
 
 <head>
 <script src="js/owl.carousel.min.js"></script> <!-- Change path if needed -->
+<!-- Load jQuery FIRST -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- Load Owl Carousel AFTER jQuery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 
     
     <meta charset="UTF-8">
