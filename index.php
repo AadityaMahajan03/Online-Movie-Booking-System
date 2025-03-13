@@ -8,8 +8,7 @@ session_start();
 <html lang="zxx">
 
 <head>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.countdown/2.2.0/jquery.countdown.min.js"></script>
+
 
     <meta charset="UTF-8">
     <meta name="description" content="Male_Fashion Template">
