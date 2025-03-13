@@ -213,4 +213,15 @@
         });
     });
 
+
+$(document).ready(function(){
+    $(".owl-carousel").owlCarousel({
+        items: 1,      // Number of items to show
+        loop: true,    // Infinite loop
+        autoplay: true // Auto-slide
+    });
+});
+
+	
+
 })(jQuery);
